@@ -1,0 +1,1 @@
+npx json-server --watch src/data/teams.json --port 8000

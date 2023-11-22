@@ -1,0 +1,30 @@
+{
+    "teams": [
+        {
+            "nom": "Rockets",
+            "acronyme": "RKT",
+            "idequipe": 1
+        },
+        {
+            "nom": "Golden state Warriors",
+            "acronyme": "GSW",
+            "idequipe": 2
+        },
+        {
+            "nom": "Boston Cletics",
+            "acronyme": "CELT",
+            "idequipe": 3
+    
+        },
+        {
+            "nom": "Phoenix Suns",
+            "acronyme": "PHOE",
+            "idequipe": 4
+        },
+        {
+            "nom": "Sacramento Kings",
+            "acronyme": "SAC",
+            "idequipe": 5
+        }
+    ]
+}
